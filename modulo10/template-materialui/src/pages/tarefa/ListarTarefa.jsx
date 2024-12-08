@@ -83,7 +83,7 @@ const ListarTarefa = () => {
 
     return(
     <>
-    <Card>
+    <Card style={{ background: '#ccc' }}>
         <CardHeader
           title="Tarefas"
           subheader="Listagem de Tarefas"
